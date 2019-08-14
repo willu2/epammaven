@@ -9,12 +9,6 @@ Java project:
 Tested on [JDK 9.0.4](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html), [Maven 3.5.2](http://maven.apache.org/download.cgi) and [Jenkins 2.109](mirrors.jenkins-ci.org/windows/jenkins-2.109.zip)
 ```
 mvn clean test
-```
-
-.NET project: execute MSBuild
-```
-MSBuild Calculator.sln
-```
 
 Code coverage
 ========
